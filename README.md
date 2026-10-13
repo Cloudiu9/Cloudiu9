@@ -42,7 +42,7 @@ A full-stack movie and TV recommendation platform and my Master's dissertation.
 | --- | --- | --- | --- |
 | **Job Listings** | Job board with multi-tag filtering and animated list updates | Next.js, TypeScript, Tailwind, Redux Toolkit, Framer Motion | [Demo](https://job-listings-chi-ten.vercel.app/) · [Code](https://github.com/Cloudiu9/job-listings) |
 | **Typing Speed Test** | Live WPM and accuracy, 3 difficulty levels, 2 modes, saved personal best | TypeScript, Tailwind, Vitest | [Demo](https://typingspeed-cyan.vercel.app/) · [Code](https://github.com/Cloudiu9/TypingSpeed) |
-| **Portfolio** | Sky-themed personal site (a play on my name, Claudiu → Cloud) | React, Vite, Tailwind | [Live](https://portfolio-beta-liart-55.vercel.app/) · [Code](https://github.com/Cloudiu9/Portfolio) |
+| **Portfolio** | Sky-themed personal site | React, Vite, Tailwind | [Live](https://portfolio-beta-liart-55.vercel.app/) · [Code](https://github.com/Cloudiu9/Portfolio) |
 | **WebScraperLLM** | Scrapes a decade of political speeches into structured JSON, with optional LLM processing | Python, Selenium, BeautifulSoup, Streamlit, Groq | [Code](https://github.com/Cloudiu9/WebScraperLLM) |
 
 ---
