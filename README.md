@@ -20,7 +20,7 @@ I'm **open to remote junior roles**, and I'm building my backend skills to grow 
 ## Featured project: MovieFlix
 
 <a href="https://disertatie-frontend.vercel.app/">
-  <img src="./assets/movieflix.png" alt="MovieFlix home page with a featured movie banner and a row of titles" width="100%">
+  <img src="./movieflix.png" alt="MovieFlix home page with a featured movie banner and a row of titles" width="100%">
 </a>
 
 A full-stack movie and TV recommendation platform and my Master's dissertation.
